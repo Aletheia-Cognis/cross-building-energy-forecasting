@@ -61,11 +61,11 @@ Dataset download links, required paths, and citation prompts are documented in [
 │   ├── README.md              # script categories and usage
 │   └── common.sh              # shared shell helpers
 ├── src/                       # Python code, categorized in src/README.md
-├── results/                   # generated outputs, gitignored
-├── tables/                    # generated outputs, gitignored
-├── figures/                   # generated outputs, gitignored
-├── models/                    # generated outputs, gitignored
-└── logs/                      # generated outputs, gitignored
+├── results/                   
+├── tables/                    
+├── figures/                   
+├── models/                    
+└── logs/                     
 ```
 
 ## Quick Reproduction
